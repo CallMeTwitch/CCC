@@ -1,5 +1,3 @@
-# PASSED
-
 length = int(input())
 side_lengths = [*map(int, input().split())]
 widths = [*map(int, input().split())]
