@@ -1,5 +1,3 @@
-# PASSED
-
 r, c = int(input()), int(input())
 
 rows = [0] * r
